@@ -9,5 +9,5 @@ default:
       database: analytics
       warehouse: transforming
       schema: dbt_vijay
-      password: SnowVij@y250287
+      password: abcxyz
       role: 
